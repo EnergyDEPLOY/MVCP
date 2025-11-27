@@ -16,7 +16,7 @@ MVCP (Measurement & Validation Change Point Model) is a Python toolkit for analy
 
 If you use the code derived from it in academic work, please cite:
 
-Manfren, M., Liao, R., & B, Nastasi. (2025). Enhancing interpretability and automation in data-driven energy modelling: An analytical approach to change-point regression models. Applied Energy.
+Manfren, M., Liao, R., & B, Nastasi. (2025). Enhancing interpretability and automation in data-driven energy modelling: An analytical approach to change-point regression models. Applied Energy. https://doi.org/10.1016/j.apenergy.2025.127150.
 
 ## Usage
 
